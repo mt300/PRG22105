@@ -1,0 +1,8 @@
+
+Bubble_Sort,21.30s
+Quick_Sort,0.03s
+Insert_Sort,7.68s
+Binary_Insert_Sort,5.95s
+Selection_Sort,11.77s
+Merge_Sort,0.03s
+Heap_Sort,0.04s
